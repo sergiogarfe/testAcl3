@@ -1,0 +1,88 @@
+{
+  "users": [
+    "569f80e77712b273209bff72"
+  ],
+  "status": 1,
+  "serverOptions": {
+    "allowOrigin": [
+      "http://www.toroback.com",
+      "http://toroback.com",
+      "http://192.168.1.33:4200"
+    ],
+    "a2sVersion": "0",
+    "git": null,
+    "port": 4570,
+    "secret_key": "zhcaFVI7tk5gIYAqHTBhSt7Db",
+    "host": "http://192.168.1.45"
+  },
+  "gitOptions": {
+    "ssh": {
+      "sshPublicKey": {
+        "id": null,
+        "cert": null,
+        "name": null
+      },
+      "sshPrivateKey": {
+        "id": null,
+        "cert": null,
+        "name": null
+      },
+      "password": null
+    },
+    "https": {
+      "accessToken": null
+    }
+  },
+  "storageOptions": null,
+  "dbOptions": {
+    "pass": "EYmmOtHA",
+    "user": "576babdf497486699b93b7f5_testAcl3",
+    "host": "mongodb://localhost/576babdf497486699b93b7f5_testAcl3",
+    "name": "576babdf497486699b93b7f5_testAcl3"
+  },
+  "socialOptions": {
+    "fb": {
+      "secretKey": null,
+      "clientId": null
+    }
+  },
+  "pushOptions": {
+    "ios": null,
+    "gcm": {
+      "apikey": null,
+      "url": null
+    }
+  },
+  "mqttOptions": {
+    "options": {
+      "protocolVersion": null,
+      "protocolId": null
+    },
+    "port": null,
+    "host": null
+  },
+  "redisOptions": {
+    "prefix": null,
+    "port": null,
+    "host": null
+  },
+  "_id": "576babdf497486699b93b7f5",
+  "sessionOptions": {
+    "name": "576babdf497486699b93b7f5_testAcl3"
+  },
+  "app_key": "HL39DuUAFKwi3iK",
+  "creator": "569f80e77712b273209bff72",
+  "name": "testAcl3",
+  "__v": 0,
+  "path": "/Users/sergio.garcia/Desktop/Desarrollo/apps/569f80e77712b273209bff72/576babdf497486699b93b7f5/",
+  "aclOptions": {
+    "enableAcl": true,
+    "noAcl": {
+      "users": {
+        "login": true,
+        "confirm": true,
+        "newDocument": true
+      }
+    }
+  }
+}
